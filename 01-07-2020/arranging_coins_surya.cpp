@@ -9,8 +9,7 @@ public:
             current_level += 1;
             current_level_sum  = (current_level*(current_level+1))/2;
             if(current_level_sum>n)
-                return current_level -1;
-                
+                return current_level -1;  
         }
         return int(current_level);
     }
