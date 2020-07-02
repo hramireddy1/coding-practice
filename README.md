@@ -1,4 +1,4 @@
-# Coding practise of the TCS bois
+# Leetcode Coding practice
 
 ## Directory Structure
 
